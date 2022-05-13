@@ -1,1 +1,1 @@
-# XXXX
+smooth-doc/README.md
