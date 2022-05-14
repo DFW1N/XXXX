@@ -1,1 +1,0 @@
-smooth-doc/README.md
